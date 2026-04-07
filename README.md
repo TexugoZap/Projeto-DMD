@@ -39,9 +39,9 @@ Abaixo está o mapeamento visual do modelo do projeto.
 
 ## 🏗️ Infraestrutura
 Tecnologias e ferramentas utilizadas para tirar o site do papel:
-* • Frontend: HTML5
-* • Estilização: Bootstrap
-* • Banco de Dados:  Firebase
-* • Gestão do Projeto: ProjectLibre
-* • Hospedagem / Cloud: Vercel
+* Frontend: HTML5
+* Estilização: Bootstrap
+* Banco de Dados:  Firebase
+* Gestão do Projeto: ProjectLibre
+* Hospedagem / Cloud: Vercel
 
