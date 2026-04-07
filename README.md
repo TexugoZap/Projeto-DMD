@@ -18,7 +18,7 @@ O site está sendo desenvolvido para atender tanto consumidores que desejam comp
 O valor desse projeto para o desenvolvimento profissional, se encontra no fato que o projeto permite explorar áreas como design temático, experiência do usuário, acessibilidade e produção de conteúdo digital, tornando-se um trabalho completo e relevante.
 
 
-### 🖼️ Project Model Canvas
+## 🖼️ Project Model Canvas
 
 Abaixo está o mapeamento visual do modelo do projeto.
 
@@ -37,7 +37,7 @@ Abaixo está o mapeamento visual do modelo do projeto.
 | Custos de hospedagem, domínio... | Vendas, planos, doações... |
 | • Hospedagem e domínio <br> • Ferramentas de dev/design <br> • Produção de conteúdo <br> • Tempo de desenvolvimento | • Venda de doces <br> • Encomendas <br> • Parcerias futuras <br> • Anúncios (futuro) |
 
-### 🏗️ Infraestrutura
+## 🏗️ Infraestrutura
 Tecnologias e ferramentas utilizadas para tirar o site do papel:
 •	Frontend: HTML5
 •	Estilização: Bootstrap
