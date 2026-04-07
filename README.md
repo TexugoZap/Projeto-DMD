@@ -63,7 +63,9 @@ Tecnologias e ferramentas utilizadas para tirar o site do papel:
 
 Planejamento e controle de tempo extraídos do software de gestão ProjectLibre.
 
-![CoryBaxter](https://github.com/user-attachments/assets/3b90c647-477d-469a-8331-b88aea42f209)
+![libre](https://github.com/user-attachments/assets/039601c9-a568-4aa4-899f-059095362890)![libre 2](https://github.com/user-attachments/assets/bf77b912-d86f-48ed-96ac-156679252b2b)
+
+
 
 ## 🚀 Deploy e Acesso
 
