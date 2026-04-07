@@ -1,13 +1,18 @@
-###💡 Sobre o Projeto
+## 💡 Sobre o Projeto
 
-Ideia: O site possui como conceito central uma confeitaria temática inspirada no Terror/Halloween que, além de vender doces criativos, também ensina os usuários a realizarem receitas em casa.
+### Ideia
+O site possui como conceito central uma confeitaria temática inspirada no Terror/Halloween que, além de vender doces criativos, também ensina os usuários a realizarem receitas em casa.
 A proposta principal é oferecer uma experiência completa, criando um ambiente de compra e aprendizado, no qual os usuários podem aprender receitas temáticas e versões adaptadas, com menos açúcar ou ingredientes alternativos para pessoas diabéticas, tornando a confeitaria mais inclusiva.
 
-Objetivo: Desenvolver um site de confeitaria que una a venda de produtos e o ensino de receitas, incluindo alternativas para pessoas com diabetes.
-•	Disponibilizar uma área de venda/encomenda de alimentos temáticos de terror. 
-•	Oferecer receitas passo a passo para serem feitas em casa. 
-•	Promover inclusão para pessoas com diabetes por meio de alternativas nas receitas.
 
+### Objetivos
+* **Geral:** Desenvolver um site de confeitaria que una a venda de produtos e o ensino de receitas, incluindo alternativas para pessoas com diabetes.
+* **Específicos:**
+    * •	Disponibilizar uma área de venda/encomenda de alimentos temáticos de terror. 
+    * •	Oferecer receitas passo a passo para serem feitas em casa. 
+    * •	Promover inclusão para pessoas com diabetes por meio de alternativas nas receitas.
+
+### Justificativa
 O site está sendo desenvolvido para atender tanto consumidores que desejam comprar doces temáticos quanto aqueles que preferem aprender a produzi-los. Além disso, ao incluir receitas adaptadas para diabéticos, o projeto promove inclusão alimentar e amplia o público atendido.
 
 O valor desse projeto para o desenvolvimento profissional, se encontra no fato que o projeto permite explorar áreas como design temático, experiência do usuário, acessibilidade e produção de conteúdo digital, tornando-se um trabalho completo e relevante.
