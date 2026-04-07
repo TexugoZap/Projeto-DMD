@@ -1,3 +1,17 @@
+# 💀 Sabor Macabro
+Aqui de fome você não morre.
+
+## 📌 Sumário
+
+1. [💡 Sobre o Projeto](#-sobre-o-projeto)
+    * [Ideia](#ideia)
+    * [Objetivos](#objetivos)
+    * [Justificativa](#justificativa)
+2. [🖼️ Project Model Canvas](#️-project-model-canvas)
+3. [🏗️ Infraestrutura](#️-infraestrutura)
+4. [📅 Cronograma (ProjectLibre)](#-cronograma-projectlibre)
+5. [🚀 Deploy e Acesso](#-deploy-e-acesso)
+
 ## 💡 Sobre o Projeto
 
 ### Ideia
