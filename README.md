@@ -59,3 +59,16 @@ Tecnologias e ferramentas utilizadas para tirar o site do papel:
 * Gestão do Projeto: ProjectLibre
 * Hospedagem / Cloud: Vercel
 
+## 📅 Cronograma (ProjectLibre)
+
+Planejamento e controle de tempo extraídos do software de gestão ProjectLibre.
+
+![CoryBaxter](https://github.com/user-attachments/assets/3b90c647-477d-469a-8331-b88aea42f209)
+
+## 🚀 Deploy e Acesso
+
+O site está publicado e disponível em ambiente de produção através da infraestrutura da **Vercel**.
+
+🔗 **Clique para acessar:** [https://seu-site.vercel.app](https://seu-site.vercel.app)
+
+## Feito com 💜 por [Seu Nome](https://github.com/seu-usuario).
