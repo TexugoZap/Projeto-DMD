@@ -71,4 +71,6 @@ O site está publicado e disponível em ambiente de produção através da infra
 
 🔗 **Clique para acessar:** [https://seu-site.vercel.app](https://seu-site.vercel.app)
 
-## Feito com 💜 por [Seu Nome](https://github.com/seu-usuario).
+---
+
+ Feito com 💜 por [Seu Nome](https://github.com/seu-usuario).
